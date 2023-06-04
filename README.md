@@ -6,5 +6,5 @@
 <img src="https://komarev.com/ghpvc/?username=2k7u&color=grey">
  </p>
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/1107044094796116079.png">
+  <img src="https://discord.c99.nl/widget/theme-3/1107044094796116079.png">
 </p>
